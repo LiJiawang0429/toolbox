@@ -8,6 +8,7 @@
 |-|-|-|-|
 | [parquet-to-table](./parquet-to-table) | 解析 Parquet 文件为表格，支持预览/导出 CSV/JSON/Markdown | Python / pyarrow / pandas | ✅ 可用 |
 | [feishu-confusion-matrix](./feishu-confusion-matrix) | 飞书表格 → 混淆矩阵热力图 + 分类指标（Precision/Recall/F1） | React 18 / TypeScript / Rsbuild / TailwindCSS / NextUI | ✅ 可用 |
+| [pe-runner](./pe-runner) | 通用 PE 跑数工具：PE 模板 + CSV → 并发调 LLM → JSON 解析 + 分类指标 | Python / openai SDK / 多线程 | ✅ 可用 |
 
 ## 使用说明
 
