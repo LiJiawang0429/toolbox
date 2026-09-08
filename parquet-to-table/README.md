@@ -84,12 +84,12 @@ Schema（共 6 列, 100 行）
 
 预览（前 5 行 / 共 100 行, 6 列）
 ----------------------------------------------------------------------
-            event_time                                                    sid     account                        model                   endpoint  api_type
-0  2026-09-01 00:00:03  0217881919890737d96eb03402f8d23bede142cc170f12113b90b  2127066044  doubao-seed-2-0-lite-260428  ep-m-20260706165949-s7tfm  Response
-1  2026-09-01 00:00:07  0217881919932419430d596286b260c96da43cf8b78006c61dddd  2127066044  doubao-seed-2-0-lite-260428  ep-m-20260706165949-s7tfm  Response
-2  2026-09-01 00:00:09  02178819199158591c2d2a5c8b87d41c215ad6a03128303d52010  2127066044  doubao-seed-2-0-lite-260428  ep-m-20260706165949-s7tfm  Response
-3  2026-09-01 00:00:16  021788191973712e8da636536c29a57598fab12b973f8fd1de6fd  2111725729  doubao-seed-2-0-lite-260428  ep-m-20260830222644-dnvwv      Chat
-4  2026-09-01 00:00:19  021788191992882752861ac95076ae8724c9acea65a674eac46fc  2127066044  doubao-seed-2-0-lite-260428  ep-m-20260706165949-s7tfm  Response
+event_time,sid,account,model,endpoint,api_type
+2026-09-01 00:00:03,sess_a1b2c3,user_001,llm-model-lite,ep-01,Response
+2026-09-01 00:00:07,sess_d4e5f6,user_001,llm-model-lite,ep-01,Response
+2026-09-01 00:00:09,sess_g7h8i9,user_001,llm-model-lite,ep-01,Response
+2026-09-01 00:00:16,sess_j0k1l2,user_002,llm-model-lite,ep-02,Chat
+2026-09-01 00:00:19,sess_m3n4o5,user_001,llm-model-lite,ep-01,Response
 ----------------------------------------------------------------------
 ```
 
